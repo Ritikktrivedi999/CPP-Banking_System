@@ -8,11 +8,13 @@ This project simulates a simple banking system using object-oriented programming
    - Create a new bank account by providing the first name, last name, and an initial deposit.
    - Each account is assigned a unique account number.
    - Account details are stored persistently in a file (`Bank.data`).
+ ![CODE](https://github.com/user-attachments/assets/c3623dcf-e65a-420f-91f3-4185adb99cd3)
+
 
 ### 2. Balance Enquiry
    - Check the balance of an account by providing the account number.
    - Displays the account details and current balance.
-
+![CODE2](https://github.com/user-attachments/assets/028448d7-fe31-457f-82a2-a60f1fb125d1)
 ### 3. Deposit Money
    - Deposit money into an account by providing the account number and deposit amount.
    - Updates the balance and displays the new balance.
